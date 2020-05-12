@@ -303,6 +303,14 @@
             }
         },
         {
+            "Key": "4b7bbe1a-e425-4907-bca1-f0a99adeb0b6",
+            "Value": {
+                "id": "a8d2e0c7-bd8b-47c8-9a6b-7abf76d70921",
+                "resourcePath": "scripts\\scr_equipAItem\\scr_equipAItem.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "4d26f806-405f-4eab-9f57-cbfb89e00e91",
             "Value": {
                 "id": "2662393d-6fb9-48c0-aa9e-372ba575b599",
@@ -1318,6 +1326,7 @@
         "c02e9726-9d79-45b6-a7c5-14e7c881b6d1",
         "75100614-d5b6-4f1f-afe8-a6fc731b69d2",
         "375ba792-8207-4f2e-ab8c-b27e595758cc",
+        "4b7bbe1a-e425-4907-bca1-f0a99adeb0b6",
         "ee00427f-a426-4d4a-8767-f7ba3cc3abf8",
         "4efa814a-c32c-4590-8ef0-4e019dda2a1e",
         "724b8148-474d-4040-bc74-ec18e90d8375"
